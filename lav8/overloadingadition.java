@@ -9,6 +9,7 @@ class Calculator {
     int addition(int a, int b, int c) {
         return a + b + c;
     }
+    
 
     // Addition of two decimal numbers
     double addition(double a, double b) {

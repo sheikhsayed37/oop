@@ -12,6 +12,7 @@ class Car {
 
     // Display Method
     void displayCar() {
+        
         System.out.println("Brand: " + brand);
         System.out.println("Model: " + model);
         System.out.println("Price: " + price);

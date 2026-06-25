@@ -7,6 +7,7 @@ public class even {
         System.out.print("Enter starting number: ");
         int start = input.nextInt();
 
+        
         System.out.print("Enter ending number: ");
         int end = input.nextInt();
 
